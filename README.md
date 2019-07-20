@@ -10,13 +10,13 @@ Builder | Adapter | Chain of Responsibility
 Factory | Bridge | Command
 Prototype | Composite | Interpreter
 Singleton | Decorator | Iterator
- | Facade | Mediator
- | Flyweight | Memento
- | Proxy | Null Object
- | | Observer
- | | State
- | | Strategy
- | | Template Method
- | | Visitor
+ | | Facade | Mediator
+ |  | Flyweight | Memento
+ | | Proxy | Null Object
+ | | | Observer
+ | | | State
+ | | | Strategy
+ | | | Template Method
+ | | | Visitor
 
 
