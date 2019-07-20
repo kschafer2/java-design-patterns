@@ -1,8 +1,7 @@
 # java-design-patterns
 
-A Collection of Gang of Four Design Patterns In Java:
-
-##Bonus Design Pattern: Specification
+A Collection of Gang of Four Design Patterns In Java with Bonus Design Pattern:
+Specification
 
 Creational Patterns | Structural Patterns | Behavioral Patterns
 ------------------- | ------------------- | -------------------
