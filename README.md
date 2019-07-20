@@ -2,32 +2,21 @@
 
 A Collection of Gang of Four Design Patterns In Java:
 
-Creational Patterns
-- Builder
-- Factories
-- Prototype
-- Singleton
+##Bonus Design Pattern: Specification
 
-Structural Patterns
-- Adapter
-- Bridge
-- Composite
-- Decorator
-- Facade
-- Flyweight
-- Proxy
+Creational Patterns | Structural Patterns | Behavioral Patterns
+------------------- | ------------------- | -------------------
+Builder | Adapter | Chain of Responsibility
+Factory | Bridge | Command
+Prototype | Composite | Interpreter
+Singleton | Decorator | Iterator
+ | Facade | Mediator
+ | Flyweight | Memento
+ | Proxy | Null Object
+ | | Observer
+ | | State
+ | | Strategy
+ | | Template Method
+ | | Visitor
 
-Behavioral Patterns
-- Chain of Responsibility
-- Command
-- Interpreter
-- Iterator
-- Mediator
-- Memento
-- Null Object
-- Observer
-- State
-- Strategy
-- Template Method
-- Visitor
 
