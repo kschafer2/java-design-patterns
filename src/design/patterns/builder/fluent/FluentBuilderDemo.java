@@ -1,6 +1,6 @@
 package design.patterns.builder.fluent;
 
-public class BuilderDemo {
+public class FluentBuilderDemo {
     public static void main(String[] args) {
 
         HtmlBuilder builder = new HtmlBuilder("ul");
