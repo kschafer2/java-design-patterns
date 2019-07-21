@@ -12,7 +12,6 @@ import java.util.List;
 
 public class SpecificationDemo {
     public static void main(String[] args) {
-
         Product apple = new Product("Apple", Color.GREEN, Size.SMALL);
         Product tree = new Product("Tree", Color.GREEN, Size.LARGE);
         Product house = new Product("House", Color.BLUE, Size.LARGE);
@@ -23,14 +22,14 @@ public class SpecificationDemo {
 
         System.out.println("Green products: ");
         productFilter.filter(products, new ColorSpecification(Color.GREEN))
-        .forEach(product -> System.out.println(" - " + product + " is green"));
+                .forEach(product -> System.out.println(" - " + product + " is green"));
 
         System.out.println("\nLarge, blue products: ");
         productFilter.filter(products,
                 new AndSpecification<>(
                         new ColorSpecification(Color.BLUE),
                         new SizeSpecification(Size.LARGE)
-        ))
+                ))
                 .forEach(product -> System.out.println(" - " + product + " is large and blue"));
     }
 }
