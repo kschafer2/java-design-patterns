@@ -10,6 +10,8 @@ import design.patterns.specification.specifications.SizeSpecification;
 
 import java.util.List;
 
+//for elegant object filtration
+
 public class SpecificationDemo {
     public static void main(String[] args) {
         Product apple = new Product("Apple", Color.GREEN, Size.SMALL);

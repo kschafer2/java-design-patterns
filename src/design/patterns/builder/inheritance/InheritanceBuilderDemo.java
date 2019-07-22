@@ -2,6 +2,8 @@ package design.patterns.builder.inheritance;
 
 import design.patterns.builder.inheritance.builders.EmployeeBuilder;
 
+//fluently inheriting from a builder using recursive generics
+
 public class InheritanceBuilderDemo {
     public static void main(String[] args) {
 

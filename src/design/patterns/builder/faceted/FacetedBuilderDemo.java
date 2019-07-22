@@ -3,6 +3,8 @@ package design.patterns.builder.faceted;
 import design.patterns.builder.faceted.builders.PersonBuilder;
 import design.patterns.builder.faceted.model.Person;
 
+//for fluent, piecewise creation of a complex object
+
 public class FacetedBuilderDemo {
     public static void main(String[] args) {
 
