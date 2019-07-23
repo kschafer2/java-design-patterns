@@ -1,6 +1,5 @@
 package design.patterns.adapter.caching;
 
-import design.patterns.adapter.caching.adapters.LineToPointAdapter;
 import design.patterns.adapter.caching.model.Line;
 import design.patterns.adapter.caching.model.Point;
 import design.patterns.adapter.caching.model.VectorObject;

@@ -1,4 +1,4 @@
-package design.patterns.adapter.caching.adapters;
+package design.patterns.adapter.caching;
 
 import design.patterns.adapter.caching.model.Line;
 import design.patterns.adapter.caching.model.Point;
