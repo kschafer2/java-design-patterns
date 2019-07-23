@@ -7,7 +7,7 @@ package design.patterns.prototype.serialization;
 
 import org.apache.commons.lang3.SerializationUtils;
 
-public class PrototypeDemo {
+public class SerializationPrototypeDemo {
     public static void main(String[] args) {
         Foo foo = new Foo(new String[]{"life", "plates", "foliage"});
 

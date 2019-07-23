@@ -2,6 +2,8 @@ package design.patterns.prototype.serialization;
 
 import java.io.Serializable;
 
+//must implement serializable
+
 public class Foo implements Serializable {
 
     private String[] whatever;
