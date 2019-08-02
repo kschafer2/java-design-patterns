@@ -1,4 +1,4 @@
-package design.patterns.composite.shapes.model;
+package design.patterns.composite.manyasone.model;
 
 import java.util.ArrayList;
 import java.util.Collections;

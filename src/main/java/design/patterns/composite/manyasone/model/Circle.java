@@ -1,4 +1,4 @@
-package design.patterns.composite.shapes.model;
+package design.patterns.composite.manyasone.model;
 
 public class Circle extends GraphicObject {
 
